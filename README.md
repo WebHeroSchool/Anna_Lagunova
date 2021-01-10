@@ -1,2 +1,1 @@
-# Anna_Lagunova
-Мой проект
+# Anna-Lagunova
